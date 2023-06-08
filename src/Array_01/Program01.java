@@ -1,3 +1,5 @@
+// WAP to create an array of 5 integer elements and print all 5 elements from an array(Take hardcoded values)
+
 package Array_01;
 
 public class Program01 {
